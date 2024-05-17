@@ -1,0 +1,64 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+body{
+  min-height:100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(abt.us.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+}
+.Name{
+  color:white;
+  font-size:50px;
+  font-weight:20px;
+  background-color: rgba(0,0,0,0.4);
+  padding-left: 80px;
+  padding-right: 80px;
+}
+p{
+  color:white;
+  font-size:40px;
+  font-weight:30px;
+  line-height: 40px;
+  text-align: center;
+  background-color: rgba(0,0,0,0.4);
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.me1
+{
+  width:500px;
+  padding-left: 150px;
+  padding-bottom:10px;
+  padding-top: 50px;
+}
+.her1{
+  width:500px;
+  float:right;
+  padding-right: 150px;
+  padding-bottom:10px;
+  padding-top:50px;
+}
+h1{
+  font-family: Times New Roman;
+  font-size: 50px;
+  margin:15px;
+}
+  
+}
+.Mary{
+  color:white;
+  font-size:35px;
+  padding-left: 545px;
+  padding-right:10px;
+}
+  
+header{
+  text-align: center;
+  color:white;
+  padding-top:55px;
+}

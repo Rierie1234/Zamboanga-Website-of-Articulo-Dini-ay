@@ -1,0 +1,73 @@
+*{
+  margin:0;
+  padding:0;
+  box-styling:border-box;
+  font-family:"poppins", sans-serif;
+  }
+    body{
+      background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.3)),url('historybg.jpg');no repeat;
+    min-height: 100vh;
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+    opacity: 100;
+    background-color:rgba(94,94,94,0.908);
+    
+      }
+ .logo{
+    font-size: 50px;
+    min-height: 10vh;
+    padding-top:20px;
+    border:10px solid rgba(233,233,233,0.702);
+    border-radius: 10px;
+    font-family: Times New Roman;
+    color:White;
+        
+      }
+      .description{
+        font-size: 50px;
+        color:white;
+       font-family: Times New Roman;
+        background-color: rgba(0,0,0,0.5);
+        min-height: 50vh;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+      
+      }
+      .history{
+        font-size: 50px;
+        font-weight: 20px;
+        font-family: Times New Roman;
+        background-color: rgba(0,0,0,0.5);
+        color: white;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+      }
+   .history2{
+        font-size: 50px;
+        font-weight: 20px;
+        font-family: Times New Roman;
+        background-color: rgba(0,0,0,0.5);
+        color: white;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+      }
+.img{
+    display: block;
+    padding-left:360px;
+    padding-top:60px;
+    padding-bottom: 60px;
+    
+  }
+  .img2{
+    display: block;
+    padding-left:200px;
+    padding-top:60px;
+    padding-bottom: 60px;
+    
